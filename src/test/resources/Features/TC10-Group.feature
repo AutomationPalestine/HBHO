@@ -11,7 +11,8 @@ Feature: To Test Group Functionality
     Examples: 
       | Name    | SortPriority | Details  |
       | Admin20  |            0 | Java GPS |
-    #  | Admin21 |            0 | Java GPS |
+      | Admin21 |            0 | Java GPS |
+      | Admin22  |            0 | Java GPS |
 
   @TC_10_02_GroupModifyScenario
   Scenario Outline: Modify Group
