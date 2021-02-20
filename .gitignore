@@ -3,3 +3,4 @@
 .classpath
 debug.log
 /target/
+.metadata
